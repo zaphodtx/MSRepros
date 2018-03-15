@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="130">
+   <defs>
+     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+       <stop style="stop-color:rgb(255,255,0);stop-opacity:1" offset="0%" />
+       <stop style="stop-color:rgb(255,0,0);stop-opacity:1" offset="100%" />
+     </linearGradient>
+   </defs>
+   <ellipse fill="url(#grad1)" cx="100" cy="70" rx="85" ry="55" />
+   <text font-family="Verdana" font-size="45px" fill="#ffffff" x="50" y="86">SVG</text>
+   Sorry, your browser does not support inline SVG.
+</svg>
+
+
